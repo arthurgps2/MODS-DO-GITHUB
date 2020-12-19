@@ -24,4 +24,8 @@ MÉTODO GIT (especificamente pro pc do pirueta pq ele n roda o githubkkkkkk):
 5- Clique em Clone. Os dados do repositório serão baixados automaticamente.
 
 PARA ATUALIZAR:
-No Git GUI, clique em Repository > Git Bash
+1- No Git GUI, clique em Repository > Git Bash
+2- Na linha de comando, escreva: git pull (link do repositório) main
+3- Aperte enter. O repositório do seu PC será atualizado automaticamente
+
+gg
